@@ -1,0 +1,7 @@
+#Tide Times for DATESTRING#
+:excerptstart
+Tide Times for DAYOFWEEK: TIDE_TIMES
+:excerptend
+Tide Times for DAYOFWEEK: TIDE_TIMES
+
+[wunderground location="Riviera Beach, Fl" numdays="2" layout="simple"]
